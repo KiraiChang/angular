@@ -1,2 +1,2 @@
-# angularjs
-AngularJs Application 
+# angular
+Angular Application 
